@@ -1,7 +1,7 @@
 ![buzztrade Banner](https://raw.githubusercontent.com/buzztrade/.github/main/profile/BuzzTrade-Banner.png)
 
 <h2>👋 Welcome to buzztrade 📈</h2>
-<a href="https://t.me/buzztrade" target="_blank">
+<a href="https://t.me/buzztradeHQ" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/company/buzztrade" target="_blank">
