@@ -18,5 +18,6 @@
 
 
 <h2> Demo </h2>
+<a href="https://t.me/BuzzTradeBot" target="_blank">Checkout our Telegram bot</a> 
 
 
