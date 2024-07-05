@@ -14,7 +14,10 @@
 
 <h3> We are building the future of Social Trading and Crowd Investing on Telegram powered by TON <h3>
 
-<h2> Useful Links </h2>
+<h2> Repos </h2>
+<p><a href="https://github.com/buzztrade/dapp" target="_blank">BuzzTrade Mini App</a> </p>
+<p><a href="https://github.com/buzztrade/api" target="_blank">BuzzTrade Backend API</a></p>
+<p></p><a href="https://github.com/buzztrade/contracts" target="_blank">BuzzTrade Core Contracts</a></p>
 
 
 <h2> Demo </h2>
