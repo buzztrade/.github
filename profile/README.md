@@ -19,6 +19,9 @@
 <p><a href="https://github.com/buzztrade/api" target="_blank">BuzzTrade Backend API</a></p>
 <p></p><a href="https://github.com/buzztrade/contracts" target="_blank">BuzzTrade Core Contracts</a></p>
 
+<h2> Useful Links </h2>
+<p><a href="https://github.com/buzztrade/api/blob/main/BuzzTrade%20Technical%20Architecture.png" target="_blank">BuzzTrade Platform Archtecture</a> </p>
+
 
 <h2> Demo </h2>
 <a href="https://t.me/BuzzTradeBot" target="_blank">Checkout our Telegram bot</a> 
